@@ -11,9 +11,14 @@
 <img src="./assets/street.svg" alt="logo street" align="left" height="24" width="24"></img>
 ##### Remoto para o mundo!
 
+<br />
+
 > [Back-end] Golang, Perl, PHP, C, JS.  
 [DBA] Postgres, Elastic, Influx, Mongo.  
 [DevOps] AWS, Vultr, Google Cloud
+
+<br />
+<br />
 
 <p>
   <a href="https://linkedin.com/in/charlesduarte019/" title="LinkedIn" target="_blank" rel="noreferrer">

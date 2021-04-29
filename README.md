@@ -13,9 +13,9 @@
 
 <br />
 
-> [Back-end] Golang, Perl, PHP, C, JS.  
+> [Back-end] Golang, Perl, C, JS, PHP.  
 [DBA] Postgres, Elastic, Influx, Mongo.  
-[DevOps] AWS, Vultr, Google Cloud
+[DevOps] AWS, Vultr, Google Cloud, Server Local
 
 <br />
 <br />
